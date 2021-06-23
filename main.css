@@ -1,0 +1,16 @@
+h1 { color: red;
+		font-weight: bold;
+		font-style: italic;
+		font-size: 40px;} 
+		h2 {color: green;
+			font-size: 20px;}
+		p {color: purple;
+			font-size: 14px;}
+		footer {background-color: gray;
+			color: lightgray;}
+
+			#logo {width: 100px;}
+			#lo2 {width: 250px;}
+			#lo3 {width: 200px;}
+
+
